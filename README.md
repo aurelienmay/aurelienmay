@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies and opportunities
 - 🌱 I’m currently working at WET AG in Lausanne
 - 💞️ I’m looking to collaborate on everything you have in mind...
-- 📫 Contact : aurelienmay98@gmail.com
+- 📫 Contact : aurelien.may@outlook.com
 
 <!---
 aurelienmay/aurelienmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
